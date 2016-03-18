@@ -182,8 +182,15 @@ A Chrome extension that adds a button on GitHub comment toolbars, allowing you t
 
 ![GifHub](https://cloud.githubusercontent.com/assets/1393946/13860430/911b4ce6-ec88-11e5-9952-11f19baa0190.gif)
 
+## [Github Omnibar](https://github.com/jcouyang/gh-omnibar) [![Chrome][chrome]](https://chrome.google.com/webstore/detail/daydream/oajnmbophdhdobfpalhkfgahchpcoali) [![Firefox][firefox]](https://github.com/jcouyang/gh-omnibar#firefox)
+
+Omnibar for Github just like [bitbucket's](https://developer.atlassian.com/blog/2016/02/6-secret-bitbucket-features/?categories=git#omnibar)
+
+![](https://www.evernote.com/l/ABcsG--4RF9MgbcJanT6Vb9l_8LRfDILYMUB/image.png)
 
 [firefox]: https://raw.githubusercontent.com/alrra/browser-logos/master/firefox/firefox_24x24.png
 [safari]: https://raw.githubusercontent.com/alrra/browser-logos/master/safari/safari_24x24.png
 [chrome]: https://raw.githubusercontent.com/alrra/browser-logos/master/chrome/chrome_24x24.png
 [opera]: https://raw.githubusercontent.com/alrra/browser-logos/master/opera/opera_24x24.png
+
+
